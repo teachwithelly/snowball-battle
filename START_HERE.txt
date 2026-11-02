@@ -1,0 +1,17 @@
+SNOWBALL BATTLE — HOW TO PLAY
+
+1. Unzip the entire Snowball_Battle_Game.zip archive.
+2. Open index.html in Chrome, Edge, Firefox or Safari.
+3. Choose Elf Girl or Elf Boy and press START GAME.
+4. Move the mouse over the lower snowfield to move your elf.
+5. Answer each question. After a correct answer, CLICK a highlighted opponent to throw.
+6. After a wrong answer, the enemy throws and you lose one heart.
+7. I DON'T KNOW / SKIP moves that question to the back of the queue without losing a heart.
+8. Teacher's Mode lets you edit exactly 10 questions, select Quiz or Speaking, and export/import JSON.
+9. To publish online, upload the entire folder (including assets/) to GitHub Pages.
+
+NOTES:
+- Player Boy's original archive lacks a reliably identifiable throw sequence; his idle pose is used during throws.
+- Sprite sizes were normalized from the provided images. The originals remain in the source subfolders.
+- The game is designed for desktop mouse use; pointer/touch may work on tablets but has not been device-tested.
+- Questions are saved locally in the browser; export JSON to share or back up.
